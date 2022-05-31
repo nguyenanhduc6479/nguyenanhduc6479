@@ -6,7 +6,7 @@
 - 📫 How to reach me :
 - FACEBOOK: https://www.facebook.com.duc/nguyenanh.6479
 - LINKEDIN: www.linkedin.com/in/nguyenanhduc6479
-
+- EMAIL: nguyenduc6479@gmail.com
 <!---
 nguyenanhduc6479/nguyenanhduc6479 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
