@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nguyenanhduc6479
 - My full name is Nguyễn Anh Đức but you can call me Dan
-- 👀 I’m interested in data, mechatronics engeenering
-- 🌱 I’m currently learning mechatronics engeenering technology on HCMC university of technology and education 
+- 👀 I’m interested in data, mechatronics engineering
+- 🌱 I’m currently learning mechatronics engineering technology on HCMC university of technology and education 
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me :
 - FACEBOOK: https://www.facebook.com.duc/nguyenanh.6479
